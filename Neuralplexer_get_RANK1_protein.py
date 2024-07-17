@@ -79,7 +79,7 @@ def process_folder(folder_path, folder_index):
 
 def main():
     # Base path to folders
-    base_folder_path = '/media/arma/DATA/S-Ehsan/NeuralPLexer/HIV_plexer/'
+    base_folder_path = '/path for NeuralPLexer output/'
     os.chdir(base_folder_path)
     files= glob.glob('line*')
     # Initialize the final matrix
