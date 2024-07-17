@@ -19,7 +19,7 @@ import glob
 import shutil
 import multiprocessing
 
-base_folder_path = '/media/arma/DATA/S-Ehsan/NeuralPLexer/FDA-plexer/'
+base_folder_path = '/path for NeuralPlexer output/'
 os.chdir(base_folder_path)
 
 def process_folder(folder_path):
