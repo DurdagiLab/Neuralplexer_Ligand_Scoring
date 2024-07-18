@@ -20,3 +20,8 @@ This script generates a pipeline for finding the rank 1 ligand and the related p
 1. Install all the required software and packages listed above.
 2. Run NeuralPlexer to generate the ligand and protein structure outputs.
 3. Update the script to change the path to the NeuralPlexer output directory.
+
+## Cite 
+
+- **Please cite our publication: Deep Learning-Driven Discovery of FDA-Approved BCL2 Inhibitors: In Silico Analysis Using a Deep Generative Model NeuralPlexer for Drug Repurposing in Cancer Treatment (https://doi.org/10.1101/2024.07.15.603544
+)**
